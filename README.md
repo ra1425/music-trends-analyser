@@ -20,6 +20,7 @@ This project analyzes the Spotify "Top 200" dataset, which includes all global p
 ### Tools Used:
 
 * Python
+* Kaggle (Dataset source)
 * Pandas
 * Matplotlib & Seaborn
 * Scikit-learn
